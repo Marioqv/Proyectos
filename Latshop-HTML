@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html> 
+<link href="https://fonts.googleapis.com/css2?family=Lobster&family=Roboto:wght@100&display=swap" rel="stylesheet">
+	
+
+<head>
+	<title>Lat Shop</title>
+	<link rel="stylesheet"  href="latshop.css">
+</head>
+<body>
+<header class="header">
+	<div class="nav-container">
+		<a class="logo" href=""><img src="logo-header.png">
+		</a>
+		<nav class="nav">
+			<ul class="=nav-ul">
+				<li class="nav_li"><a href="tienda.html">TIENDA</a></li>
+				<li class="nav_li"><a href="#">HOMBRE</a></li>
+				<li class="nav_li"><a href="#">MUJER</a></li>
+				<li class="nav_li"><a href="#">APPLE</a></li>
+				<li class="nav_li"><a href="#">ZAPATILLAS</a></li>
+				<li class="nav_li"><a href="#">SKATE</a></li>
+				<li class="nav_li"><a href="#">SALE</a></li>
+				<li class="nav_li"><a href="#">MI CUENTA</a></li>
+				<input type="text" placeholder="Buscar productos">
+				<button><i class="fa-solid fa-magnifying-glass"></i></button>
+				<button><i class="fa-light fa-credit-card"></i></button>
+				<button><i class="fa-light fa-cart-shopping"></i></button>
+				<button><i class="fa-thin fa-user-large"></i></button>
+			</ul>
+		</nav>
+	</div>	
+</header>
+
+<div class="contenido-general">
+	
+<!Agregar lista de fotos que corran hacia el costado>
+
+<h1 class="novedades">Novedades</h1>
+
+	<div>Productos exclusivos en las mejores marcas
+
+	<div class="Tienda">VER TIENDA</div>
+
+	
+	<div>NUEVA COLECCIÓN POLOS ILTZ
+		<div>COMPRAR AHORA</div>
+	</div>
+
+	<dir> 
+		<div>POLOS</div>
+	</dir>
+	<div>
+		<div>HOODIES</div>
+	</div>
+	<div>
+		<div>GORRAS</div>
+	</div>
+	<div>
+		<div>BEANIES</div>
+	</div>
+	<div>
+		<div>SKATE</div>
+	</div>
+	<div>
+		<div>ZAPATILLAS</div>
+</div>
+
+<div>Nuevos ingresos...
+	<div>Tabla de skate Santa Cruz Delta
+		<div>S/289.00</div> 
+	</div></div>
+
+	<p> Por tiempo limitado</p> <br>
+<p> 15% DE DESCUENTO</p> <br>
+<p>Para todos los nuevos usuarios que se registren en Lat Shop. Serás el primero en enterarte las novedades y ofertas especiales. Cupon válido hasta el 31 de ocbubre del 2023.</p>
+
+</div>
+
+<footer class="footer">
+	<div class="logo-footer">
+		<a href="#"></a>	
+	</div>
+
+</footer>
+</body>
+</html>
